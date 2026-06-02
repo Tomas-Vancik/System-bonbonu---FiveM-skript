@@ -17,13 +17,13 @@
 
 Config = {}
 
-Config.zeleWebHook = "https://discord.com/api/webhooks/1211409094041272321/8Q5WZOu-TKtJAw643hfaM90aMkQyRHfBvCBHUHWyF9SCtWll_ZYz5UiB-t3l4FiK5Tay"
+Config.zeleWebHook = "API KEY"
 Config.zeleWebHookName = "Bonbóny 🍬 - Želé"
 
-Config.lipoWebHook = "https://discord.com/api/webhooks/1211409094041272321/8Q5WZOu-TKtJAw643hfaM90aMkQyRHfBvCBHUHWyF9SCtWll_ZYz5UiB-t3l4FiK5Tay"
+Config.lipoWebHook = "API KEY"
 Config.lipoWebHookName = "Bonbóny 🍬 - Lipo"
 
-Config.lentilkyWebHook = "https://discord.com/api/webhooks/1211409094041272321/8Q5WZOu-TKtJAw643hfaM90aMkQyRHfBvCBHUHWyF9SCtWll_ZYz5UiB-t3l4FiK5Tay"
+Config.lentilkyWebHook = "API KEY"
 Config.lentilkyWebHookName = "Bonbóny 🍬 - Lentilky"
 
 Config.zipRemove = 5 -- HOW MANY QUANTITY WILL ZIP BAGS REMOVE ON PACKIGING
